@@ -22,9 +22,6 @@ Follow these steps to set up and run the Flask Library Management System on your
     - Create a new MySQL database named `library_db`.
     - Execute the SQL script `database_setup.sql` to create the necessary tables and schema.
 
-4. **Configuration:**
-    - Open `config.py` and update the database connection settings if necessary.
-
 ## Usage
 
 Once you have completed the setup, you can start using the Flask Library Management System:
