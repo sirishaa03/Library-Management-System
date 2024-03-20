@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library Management System - Home</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Library Management System!</h1>
+        <h2>All Books:</h2>
+        <ul>
+            {% for book in books %}
+            <li>Title: {{ book.title }}, Author: {{ book.author }}, Genre: {{ book.genre }}, Published Year: {{ book.published_year }}, Availability: {{ "Available" if book.availability else "Not Available" }}</li>
+            {% endfor %}
+        </ul>
+        <button onclick="location.href='/add_book'">Add Book</button>
+        <button onclick="location.href='/apidocs'">Swagger Documentation</button>
+    </div>
+</body>
+</html>
+
