@@ -1,5 +1,5 @@
-**#Flask-Library Management System**
-Welcome to the Flask Library Management System! 
+**Flask-Library Management System**
+*Welcome to the Flask Library Management System! 
 This project is a web application designed to streamline the management of books within a library. Whether you're a librarian looking to digitize traditional library operations or a library patron seeking a user-friendly interface to browse and search for books, this project has you covered.
 
 **Setup Instructions**
