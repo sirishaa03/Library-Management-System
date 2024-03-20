@@ -39,7 +39,7 @@ Once you have completed the setup, you can start using the Flask Library Managem
 
 ## API Documentation
 
-For detailed documentation on the available API endpoints, refer to the Swagger documentation generated for this project. You can access the Swagger UI by visiting [http://127.0.0.1:5000/docs](http://127.0.0.1:5000/docs) while the application is running.
+For detailed documentation on the available API endpoints, refer to the Swagger documentation generated for this project. You can access the Swagger UI by visiting [http://127.0.0.1:5000/docs](http://127.0.0.1:5000/apidocs) while the application is running.
 
 ## Contributing
 
