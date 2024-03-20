@@ -1,0 +1,1 @@
+Flask-Library Management SystemRequirements:Flask==2.1.4pymysql==1.0.2flask-restful==0.3.9flask-swagger-ui==3.36.0
